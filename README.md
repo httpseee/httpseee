@@ -11,5 +11,5 @@ In my Master, I'm using optogenetics method to study the behaviour of Neuromodul
 - 🔭 I’m currently working on "The Role of NeuroModulators in Learning and Memory"
 - 👯 I’m looking to collaborate on projects related to Computational Neuroscience
 - 📫 How to reach me: My Twitter account is @setaretohidi
-- ⚡ Fun fact: I go running every day and I dearm of running a Marathon! :D
+- ⚡ Fun fact: I run every day and I dearm of running a Marathon! :D
 
